@@ -1,4 +1,4 @@
-# Software Engineering Atlas
+# Full-Stack Developer Atlas
 A collection of notes, experiments, and projects for learning full-stack engineering.
 
 ## Git Branching
