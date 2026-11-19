@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Calculates the discount amount in currency units.
 function calculateDiscount(price, discountPercentage) {
     return price * (discountPercentage / 100);
