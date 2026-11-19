@@ -3,3 +3,5 @@ A collection of notes, experiments, and projects for learning full-stack enginee
 
 ## Git Branching
 Learning how branches isolate development work.
+
+Remote changes are used to practise Git collaboration.
