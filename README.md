@@ -1,2 +1,2 @@
-# Engineering Atlas
+# Full-Stack Engineering Atlas
 A collection of notes, experiments, and projects for learning full-stack engineering.
