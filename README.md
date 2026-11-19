@@ -6,3 +6,7 @@ Learning how branches isolate development work.
 
 Remote changes are used to practise Git collaboration.
 Local development notes.
+
+## Collaboration Notes
+
+This repository is used to practice Git collaboration workflows.
